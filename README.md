@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sebastiensimon1/threat-hunting-scenario-tor)**
-
+- **[Threat Hunting Scenario (The Great Admin Heist)] (https://github.com/sebastiensimon1/threat-hunting-APT/tree/main)**
 <hr/>
 
 ## 🤳 Connect With Me
